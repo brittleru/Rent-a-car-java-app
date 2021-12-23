@@ -1,0 +1,4 @@
+database=jdbc:mysql://localhost:3306/
+username=root
+password=
+cardb = rent_a_car
