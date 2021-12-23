@@ -60,14 +60,14 @@ For the main application I've developed a console app, in which I've generated s
 ### Results Images
 
 #### The database
-![database](https://github.com/JAVABHD/hw_sebastian_mocanu-rentacar/blob/main/imgs/database.png?raw=true)
+![database](https://github.com/brittleru/Rent-a-car-java-app/blob/main/imgs/database.png?raw=true)
 
 #### The terminal results
-![task1](https://github.com/JAVABHD/hw_sebastian_mocanu-rentacar/blob/main/imgs/start.png?raw=true)
-![task2](https://github.com/JAVABHD/hw_sebastian_mocanu-rentacar/blob/main/imgs/start2.png?raw=true)
-![task3](https://github.com/JAVABHD/hw_sebastian_mocanu-rentacar/blob/main/imgs/start3.png?raw=true)
-![task4](https://github.com/JAVABHD/hw_sebastian_mocanu-rentacar/blob/main/imgs/start4.png?raw=true)
-![bonus task + exit screen](https://github.com/JAVABHD/hw_sebastian_mocanu-rentacar/blob/main/imgs/start5.png?raw=true)
+![task1](https://github.com/brittleru/Rent-a-car-java-app/blob/main/imgs/start.png?raw=true)
+![task2](https://github.com/brittleru/Rent-a-car-java-app/blob/main/imgs/start2.png?raw=true)
+![task3](https://github.com/brittleru/Rent-a-car-java-app/blob/main/imgs/start3.png?raw=true)
+![task4](https://github.com/brittleru/Rent-a-car-java-app/blob/main/imgs/start4.png?raw=true)
+![bonus task + exit screen](https://github.com/brittleru/Rent-a-car-java-app/blob/main/imgs/start5.png?raw=true)
 
 
 
